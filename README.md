@@ -18,7 +18,7 @@ Detailed information about each partner is provided by:
 
 http://www.nvidia.com/object/partner-locator.html
 
-The locator or finder enables the user to query their database using specific values for Region, Type, Competencies and Levels (which are defined on the "become-a-partner.html page).  The problem with the finder is that it doesn't answer general questions like "How many partners are in the US? How many partners are Solutions Providers? etc.
+The locator or finder enables the user to query their database using specific values for Region, Type, Competencies and Levels (which are defined on the *become-a-partner.html* page).  The problem with the finder is that it doesn't answer more general questions like "How many partners are in the US? How many partners are Solutions Providers? How many partners are Preferred providers? etc.
 
 In order to answer the questions I "scraped and cleaned" the data from the finder (obtained without selecting specific values for the database fields). The overall results are provided in a series of text and excel files available in the attached zipfile along with a Python program used to setup the scraped data.
 
